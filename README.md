@@ -1,4 +1,4 @@
-WEB APP LINK : ezworktodo.netlify.app
+🔗 Live Demo: [Click here to view the To-Do List](https://ezworktodo.netlify.app)
 
 # ToDoList
 # 📝 To-Do List Web App
